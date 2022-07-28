@@ -17,11 +17,6 @@ public class CollectionLearningArrayList
 		System.out.println(fruit.contains("Apple"));
 		//Collection <String> = new ArrayList<>();
 		
-		
-		
-		
-		
-		
 		//Collection <String> fruit = new ArrayList<>();
 
 	}
